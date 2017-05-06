@@ -1,6 +1,6 @@
 # vue2-d3-horizon-chart-demo
 
-A Demo Vue2 App for vue2-d3-horizon-chart
+A Demo Vue2 App for [vue2-d3-horizon-chart](https://github.com/colwilson/vue2-d3-horizon-chart)
 
 ## Build Setup
 
